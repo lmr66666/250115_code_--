@@ -51,6 +51,7 @@ int out_queue(sq_queue_t *sq_queue)
     return temp;
 }
 
+
 int main(int argc, char const *argv[])
 {
     int i;
